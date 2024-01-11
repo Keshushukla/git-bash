@@ -17,3 +17,5 @@
 - config
 - pull
 - remote
+- branch
+- checkout
