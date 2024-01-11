@@ -19,3 +19,4 @@
 - remote
 - branch
 - checkout
+- c2
