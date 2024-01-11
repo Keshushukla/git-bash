@@ -16,6 +16,8 @@
 - push
 - config
 - pull
+- abc
+- def
 - remote
 - branch
 - checkout
